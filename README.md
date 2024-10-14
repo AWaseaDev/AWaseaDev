@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWaseaDev
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golan
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Google.com
 - 📫 How to reach me? abdulwasay007@gmail.com
 - 😄 Pronouns: ...
